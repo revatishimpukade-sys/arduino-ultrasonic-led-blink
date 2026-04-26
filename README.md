@@ -39,5 +39,5 @@ This project uses an ultrasonic sensor to detect distance and control an LED. Th
 
 ## 👩‍💻 Author
 
-Your Name
+Revati Shimpukade
 
